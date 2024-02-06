@@ -1,0 +1,4 @@
+python-pycparser source: file-without-copyright-information
+python-pycparser source: no-debian-changes
+python-pycparser source: source-contains-prebuilt-windows-binary
+python-pycparser source: source-package-encodes-python-version
