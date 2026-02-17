@@ -7,8 +7,7 @@ name = "pycparser"
 version = "3.00"
 description = "C parser in Python"
 readme = "README.rst"
-license = "BSD-3-Clause"
-license-files = ["LICENSE"]
+license = {text = "BSD-3-Clause"}
 requires-python = ">=3.10"
 authors = [{name = "Eli Bendersky", email = "eliben@gmail.com"}]
 maintainers = [{name = "Eli Bendersky", email = "eliben@gmail.com"}]
