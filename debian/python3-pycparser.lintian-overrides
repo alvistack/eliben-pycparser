@@ -1,0 +1,4 @@
+python3-pycparser: copyright-without-copyright-notice
+python3-pycparser: initial-upload-closes-no-bugs
+python3-pycparser: no-manual-page
+python3-pycparser: zero-byte-file-in-doc-directory

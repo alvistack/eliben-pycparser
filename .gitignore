@@ -17,4 +17,8 @@ utils/z.c
 *.swp
 .DS_Store
 ast.pickle
+<<<<<<< HEAD
 .codex
+=======
+.pybuild
+>>>>>>> d655121 (alvistack/release_v3.00)
